@@ -1,6 +1,6 @@
 .div1
 {
-    background-image:url(few.jpg);
+    background-image:url("few.jpg");
     background-repeat: no-repeat;
 }
 .container
